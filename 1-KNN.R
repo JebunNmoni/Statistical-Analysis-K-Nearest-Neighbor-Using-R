@@ -6,7 +6,7 @@ cat("\014")
 rm(list=ls(all=TRUE)) 
 
 # Set working directory
-setwd('FilePath)
+setwd('FilePath')
 
 # ISLR: Data for an Introduction to Statistical Learning with Applications in R
 # Provides the collection of data-sets used in the book 'An Introduction to Statistical Learning with Applications in R'.
