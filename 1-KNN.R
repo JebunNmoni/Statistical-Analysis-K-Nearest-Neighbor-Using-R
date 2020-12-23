@@ -6,7 +6,7 @@ cat("\014")
 rm(list=ls(all=TRUE)) 
 
 # Set working directory
-setwd('C:\\Users\\Md Arafat H Khan\\Dropbox\\Academics - University of Texas at Dallas\\STAT 6340.18s Statistical and Machine Learning - Spring 2018\\Mini Projects\\Project 01')
+setwd('FilePath)
 
 # ISLR: Data for an Introduction to Statistical Learning with Applications in R
 # Provides the collection of data-sets used in the book 'An Introduction to Statistical Learning with Applications in R'.
